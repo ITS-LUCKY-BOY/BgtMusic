@@ -15,7 +15,7 @@ async def play_logs(message, streamtype):
         else:
             chatusername = "Private Group"
         logger_text = f"""
-**𝐁𝐈𝐊𝐀𝐒𝐇 𝐏𝐋𝐀𝐘𝐄𝐑 𝐋𝐎𝐆**
+**𝐋𝐔𝐂𝐊𝐘 𝐏𝐋𝐀𝐘𝐄𝐑 𝐋𝐎𝐆**
 
 **𝐂𝐡𝐚𝐭:** {message.chat.title} [`{message.chat.id}`]
 
