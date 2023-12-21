@@ -38,7 +38,7 @@
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ ITS-LUCKY-BOY/BgtMusic)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ITS-LUCKY-BOY/BgtMusic)
 
 ## VPS DEPLOY                                                                                          
 💥 𝐎𝐧𝐥𝐲 𝐅𝐨𝐫 𝐅𝐢𝐫𝐬𝐭 𝐓𝐢𝐦𝐞 (𝐕𝐏𝐒) 💞
