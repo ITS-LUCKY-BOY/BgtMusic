@@ -210,7 +210,7 @@ if SOUNCLOUD_IMG_URL:
 
 if YOUTUBE_IMG_URL:
     if YOUTUBE_IMG_URL != "resource/youtube.jpeg":
-        if not re.match("(?:http|https)://", YOUTUBE_IMG_URL):
+        if not re.match("https://youtube.com/@HIPOGESTUDYHUB", YOUTUBE_IMG_URL):
             print(
                 "[ERROR] - Your YOUTUBE_IMG_URL url is wrong. Please ensure that it starts with https://"
             )
